@@ -71,6 +71,13 @@ const HomePage = () => {
       name: "Hurricaneger Sanjō (Siêu Nhân Cuồng Phong OST) ",
       img: "data/img2.jpg",
     },
+    {
+      id: 4,
+      single: "BigDaddy x Touliver",
+      src: "data/MoiEmVeVoiDoiCuaAnh.mp3",
+      name: "Mời Em Về Với Đội Của Anh",
+      img: "data/img4.jpg",
+    },
   ];
 
   const audioRef = React.useRef();
